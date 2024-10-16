@@ -1,4 +1,4 @@
-module github.com/chrede88/L1nkrTemplate
+module github.com/BravishkaSkytano/bravishkaskytano.github.io
 
 go 1.22.2
 
