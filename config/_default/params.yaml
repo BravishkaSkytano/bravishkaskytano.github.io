@@ -20,7 +20,7 @@ links:
   # - x-twitter:
   # - mastodon:
   - linkedin: https://www.linkedin.com/in/yoela-o/
-  # - instagram:
+  - instagram: https://www.instagram.com/bravishkaskytano/
   - reddit: https://www.reddit.com/user/Y_Mystake_O/
   - telegram: https://t.me/BravishkaSkytano
   # - whatsapp:
@@ -32,7 +32,7 @@ links:
   # - orcid:
   # - slack:
   # - stack-overflow:
-  # - twitch: https://www.twitch.tv/bravishka_skytano
+  - twitch: https://www.twitch.tv/bravishka_skytano
   # - patreon:
   # - soundcloud:
   # - dribbble:
@@ -58,7 +58,7 @@ links:
   # - apple:
   # - amazon:
   # - google:
-  # - paypal:
+  - paypal: https://www.paypal.com/paypalme/YoelaOlson
   # - windows:
 
 ############################
